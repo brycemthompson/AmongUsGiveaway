@@ -1,0 +1,11 @@
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.csprojAssemblyReference.cache
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.Properties.Resources.resources
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.csproj.GenerateResource.cache
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.csproj.CoreCompileInputs.cache
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\bin\Debug\GiveAwayRNG.exe.config
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\bin\Debug\GiveAwayRNG.exe
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\bin\Debug\GiveAwayRNG.pdb
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.exe
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.pdb
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.Form2.resources
+C:\Users\BryceThompson\OneDrive\Documents\College\Personal\GiveAwayRNG\GiveAwayRNG\obj\Debug\GiveAwayRNG.Form1.resources
